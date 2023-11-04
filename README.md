@@ -11,3 +11,6 @@ Use ARROW keys to move.
 
 #Disclaimer
 All assets used belong to their respective owners. We do not claim ownership over any asset used in the development of this game. This game was developed merely with entertainment and educational purposes.
+
+# Technologies
+Java, Simple Graphics Library.
